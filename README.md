@@ -10,6 +10,8 @@ Fork from [PlainTextWikipedia](https://github.com/daveshap/PlainTextWikipedia)
 
 [Download](https://dumps.wikimedia.org/simplewiki/latest/) `simplewiki-latest-pages-articles.xml.bz2` to `simplewiki-latest-pages-articles.xml` 
 
+Change `wiki_to_text.py` to your own path.
+
 ```bash
 pip install -r REQUIREMENTS.TXT
 ```
