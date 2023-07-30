@@ -1,6 +1,6 @@
 # Wikipedia to epub
 
-Convert Simple English Wikipedia to several epubs.
+Convert [Simple English Wikipedia](https://simple.wikipedia.org/wiki/Main_Page) to several epubs.
 
 Fork from [PlainTextWikipedia](https://github.com/daveshap/PlainTextWikipedia)
 
