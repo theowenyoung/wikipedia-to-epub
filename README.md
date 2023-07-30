@@ -1,6 +1,6 @@
-Wikipedia to epub
+# Wikipedia to epub
 
-I want to convert Simple English Wikipedia to several epubs, so I use this python script.
+Convert Simple English Wikipedia to several epubs.
 
 Fork from [PlainTextWikipedia](https://github.com/daveshap/PlainTextWikipedia)
 
