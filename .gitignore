@@ -1,0 +1,6 @@
+simple_wiki.sqlite
+*.sqlite
+__pycache__/
+temp/
+output/
+data/
